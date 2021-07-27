@@ -3,30 +3,29 @@
 
 ## List of OAI proividers to harvest from
 
-[[provider_oai_list.txt]]
+[provider_oai_list.txt](provider_oai_list.txt)
 
 ## List of OAI proividers server info - sets, formats etc..
 
-[[provider_oai_server_info.md]]
+[provider_oai_server_info.md](provider_oai_server_info.md)
 
-## OAI harvest script
-
-We use [Metha](https://github.com/miku/metha) to do automated harvests of the full OAI of providers to XML
-
-[[do_extract.sh]]
-
-## of OAI proividers server info - sets, formats etc..
-
-`metha-ls`
-
-[[provider_xml.md]]
-
-
-## Scrcript
+# OAI harvest script
 
 We use [Metha](https://github.com/miku/metha) to do automated harvests of the full OAI of providers to XML
 
-[[get_provider_info.sh]]
+[do_extract.sh](do_extract.sh)
+
+## XML folder in oai_extracts
+
+List of folders in `oai_extracts` and which OAI provider it corresponds to
+
+[provider_xml.md](provider_xml.md)
+
+
+## Scripts
+
+`metha-ls` to get list of XML folders for each OAI provider
+[get_provider_xml.sh](get_provider_xml.sh)
 
 ## Notes
 
