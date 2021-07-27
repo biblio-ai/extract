@@ -8,3 +8,6 @@ do
   printf '%s\n' "$p"
   METHA_DIR=$oar_dir metha-sync $p
 done < oai_provider_list.txt
+
+git commit -am 'Auto commit'
+git push
