@@ -5,11 +5,15 @@
 
 [provider_oai_list.txt](provider_oai_list.txt)
 
+If you have a suggestion for an OAI server we should harvest from (our focus is on images, audio and scanned documents) please post and issue - or do a pull request and I'll add it to the list 
+
+Providers in this list get auto harvested each day and oai auto uploaded into this git repository
+
 ## List of OAI proividers server info - sets, formats etc..
 
 [provider_oai_server_info.md](provider_oai_server_info.md)
 
-# OAI harvest script
+## OAI harvest script
 
 We use [Metha](https://github.com/miku/metha) to do automated harvests of the full OAI of providers to XML
 
