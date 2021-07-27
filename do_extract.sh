@@ -11,5 +11,8 @@ do
   METHA_DIR=$oar_dir metha-sync $p
 done < provider_oai_list.txt
 
+./get_provder_info.sh
+./get_provder_xml.sh
+
 git commit -am 'Auto commit'
 git push
