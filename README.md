@@ -19,12 +19,13 @@ We use [Metha](https://github.com/miku/metha) to do automated harvests of the fu
 
 [do_extract.sh](do_extract.sh)
 
+This script reach the [provider_oai_list.txt](provider_oai_list.txt) file and does automated git pull and gitp ush to this repository to keep it in sync
+
 ## XML folder in oai_extracts
 
 List of folders in `oai_extracts` and which OAI provider it corresponds to
 
 [provider_xml.md](provider_xml.md)
-
 
 ## Scripts
 
