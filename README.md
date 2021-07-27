@@ -1,5 +1,14 @@
 # Biblio.ai OAI harvesting/extract app
 
+The OAI data harvesting and extraction tool for Biblio.ai, which allows for the automated harvesting of the full XML (to local XML files) records of an OAI provider
+
+The currently harvested OAI providers are State Library of Victoria (Rosetta/Images) and Swinburne Commons - from Swinburne University of Technology
+
+The purpose of Biblio.ai is to automate the enrichment of a libraries digital collections (photos, scanned documents, audio, etc) using AI tools - focused around enabling accessibility and discoverablility of digital items.
+
+The harvesting of OAI records is the first step in the automated process:
+
+Harvest OAI (we are here) -> Load into database -> Enrich records with AI -> Publish enriched records 
 
 ## List of OAI proividers to harvest from
 
