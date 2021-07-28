@@ -18,5 +18,6 @@ printf 'Run provider scripts \n'
 ./get_provider_xml.sh
 
 printf 'Git commit and push \n'
+git add oai_extracts/*
 git commit -am 'Auto commit'
 git push
