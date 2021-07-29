@@ -1,0 +1,141 @@
+<Response><responseDate>2021-07-28T14:20:40Z</responseDate><request verb="ListRecords" set="" metadataPrefix=""></request><error code=""></error><GetRecord><record><header status=""></header><metadata></metadata><about></about></record></GetRecord><Identify></Identify><ListIdentifiers><resumptionToken completeListSize="" cursor="" expirationDate=""></resumptionToken></ListIdentifiers><ListMetadataFormats></ListMetadataFormats><ListRecords><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:800c8213-b062-4bc6-a1c4-23a7bbec9ee9:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T07:20:28Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>800c8213-b062-4bc6-a1c4-23a7bbec9ee9</dc:identifier>
+<dc:title>Fixing a broken EndNote library: when a file in Cloud Storage breaks</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/800c8213-b062-4bc6-a1c4-23a7bbec9ee9/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:ae958a46-0766-459f-8213-490d04025268:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T07:20:22Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>ae958a46-0766-459f-8213-490d04025268</dc:identifier>
+<dc:title>Gergana Rusenova presents ‘Fragile Matter in Architecture’ </dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology and the presenter/creator.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/ae958a46-0766-459f-8213-490d04025268/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:7ccdd03e-9eea-4c14-8492-ce6a9bf6324a:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T07:20:19Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>7ccdd03e-9eea-4c14-8492-ce6a9bf6324a</dc:identifier>
+<dc:title>Global Citizens: Tomorrow’s Global Challenge - India</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/7ccdd03e-9eea-4c14-8492-ce6a9bf6324a/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:c98e4eb3-8321-4c21-bcf0-e837196e7caa:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T07:20:15Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>c98e4eb3-8321-4c21-bcf0-e837196e7caa</dc:identifier>
+<dc:title>Grief and Loss (Seminar Series on Ageing)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology and the presenter/creator.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/c98e4eb3-8321-4c21-bcf0-e837196e7caa/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:6fc9a929-e232-4112-9d31-bcd865d2b9cc:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T07:20:07Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>6fc9a929-e232-4112-9d31-bcd865d2b9cc</dc:identifier>
+<dc:title>How to Create a Shortcut to a File in Windows 10</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/6fc9a929-e232-4112-9d31-bcd865d2b9cc/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:7464693b-6853-4a94-a544-a61827406c23:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T07:20:04Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>7464693b-6853-4a94-a544-a61827406c23</dc:identifier>
+<dc:title>How We Transitioned To Remote Learning</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/7464693b-6853-4a94-a544-a61827406c23/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:04094555-da21-4c94-a6c0-12ce734110bb:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T07:20:01Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>04094555-da21-4c94-a6c0-12ce734110bb</dc:identifier>
+<dc:title>iHUB - National Urban Research &amp; Development Platform</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/04094555-da21-4c94-a6c0-12ce734110bb/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:24ee041a-fb93-41be-a86c-44d69f811869:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T07:19:59Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>24ee041a-fb93-41be-a86c-44d69f811869</dc:identifier>
+<dc:title>Immersing Students in Their Own Professional Purpose (TLC2020)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology and presenters.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/24ee041a-fb93-41be-a86c-44d69f811869/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:7ef912f1-030b-46b1-9dc9-bfd4053ecfaa:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T07:19:58Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>7ef912f1-030b-46b1-9dc9-bfd4053ecfaa</dc:identifier>
+<dc:title>Inconvenient economic and political truths : can Australia create a lasting and positive legacy from COVID-19? </dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/7ef912f1-030b-46b1-9dc9-bfd4053ecfaa/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:0eb16b90-20ae-44a2-a0ea-ce6b3885d950:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T07:19:56Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>0eb16b90-20ae-44a2-a0ea-ce6b3885d950</dc:identifier>
+<dc:title>Innovation and Contention (TLC2020)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology and presenters.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/0eb16b90-20ae-44a2-a0ea-ce6b3885d950/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><resumptionToken completeListSize="2231" cursor="80" expirationDate="">05509be7-2926-4146-9f3b-1eab7062e2b9</resumptionToken></ListRecords><ListSets><resumptionToken completeListSize="" cursor="" expirationDate=""></resumptionToken></ListSets></Response>

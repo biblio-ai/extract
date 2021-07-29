@@ -1,0 +1,141 @@
+<Response><responseDate>2021-07-28T14:22:03Z</responseDate><request verb="ListRecords" set="" metadataPrefix=""></request><error code=""></error><GetRecord><record><header status=""></header><metadata></metadata><about></about></record></GetRecord><Identify></Identify><ListIdentifiers><resumptionToken completeListSize="" cursor="" expirationDate=""></resumptionToken></ListIdentifiers><ListMetadataFormats></ListMetadataFormats><ListRecords><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:8b42afd2-0234-446b-99c2-8115c74a657e:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:05:57Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>8b42afd2-0234-446b-99c2-8115c74a657e</dc:identifier>
+<dc:title>Intelligence (PSY10004 Psychology 101)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/8b42afd2-0234-446b-99c2-8115c74a657e/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:5e2bb67e-6072-4ec5-b4d5-7fe0f23b861e:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:05:54Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>5e2bb67e-6072-4ec5-b4d5-7fe0f23b861e</dc:identifier>
+<dc:title>Into the heart of darkness: supermassive black holes at the centers of galaxies - 2016 (Free Astronomy Public Lectures)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology and presenter/creator.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/5e2bb67e-6072-4ec5-b4d5-7fe0f23b861e/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:a2b4f08e-a018-4622-9c1b-913c6f4b2c55:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:05:44Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>a2b4f08e-a018-4622-9c1b-913c6f4b2c55</dc:identifier>
+<dc:title>Language (PSY10004 Psychology 101)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/a2b4f08e-a018-4622-9c1b-913c6f4b2c55/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:520cf4c2-324d-47ee-9d79-4983f58a4323:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:05:43Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>520cf4c2-324d-47ee-9d79-4983f58a4323</dc:identifier>
+<dc:title>Learning (PSY10004 Psychology 101)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/520cf4c2-324d-47ee-9d79-4983f58a4323/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:1eb49907-f64e-4f40-ae13-1e995bb18d30:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:05:39Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>1eb49907-f64e-4f40-ae13-1e995bb18d30</dc:identifier>
+<dc:title>Life in the Universe - origins and discoveries (Free Astronomy Public Lectures)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology and presenter/creator.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/1eb49907-f64e-4f40-ae13-1e995bb18d30/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:6e3c7163-761c-4d9b-98c0-9df952bf4823:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:05:38Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>6e3c7163-761c-4d9b-98c0-9df952bf4823</dc:identifier>
+<dc:title>LIGO, gravitational waves and the new astronomy (Free Astronomy Public Lectures)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology and presenter/creator.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/6e3c7163-761c-4d9b-98c0-9df952bf4823/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:22d78ffd-0f3c-4d88-96bb-8488ff86ccdd:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:05:37Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>22d78ffd-0f3c-4d88-96bb-8488ff86ccdd</dc:identifier>
+<dc:title>Making darkness visible (Free Astronomy Public Lectures)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology and presenter/creator.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/22d78ffd-0f3c-4d88-96bb-8488ff86ccdd/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:ac00d06b-230f-4754-be2a-1e48cc1267de:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:05:35Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>ac00d06b-230f-4754-be2a-1e48cc1267de</dc:identifier>
+<dc:title>Mark Williams interview for Sensoria</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/ac00d06b-230f-4754-be2a-1e48cc1267de/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:600840ad-8b38-495e-8bb3-39e16ebff51e:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:05:34Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>600840ad-8b38-495e-8bb3-39e16ebff51e</dc:identifier>
+<dc:title>Me, myself and I (Inside Story)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Inside Story and contributors.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/600840ad-8b38-495e-8bb3-39e16ebff51e/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:de19c05c-206e-4da8-af5d-537750bd161d:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:05:33Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>de19c05c-206e-4da8-af5d-537750bd161d</dc:identifier>
+<dc:title>Medical assistance in dying (Chancellor's Lecture Series)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology and presenter.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/de19c05c-206e-4da8-af5d-537750bd161d/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><resumptionToken completeListSize="2231" cursor="740" expirationDate="">c89a66ea-b85e-4558-abbe-ceec66b9db23</resumptionToken></ListRecords><ListSets><resumptionToken completeListSize="" cursor="" expirationDate=""></resumptionToken></ListSets></Response>

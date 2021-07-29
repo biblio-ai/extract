@@ -1,0 +1,141 @@
+<Response><responseDate>2021-07-28T14:21:05Z</responseDate><request verb="ListRecords" set="" metadataPrefix=""></request><error code=""></error><GetRecord><record><header status=""></header><metadata></metadata><about></about></record></GetRecord><Identify></Identify><ListIdentifiers><resumptionToken completeListSize="" cursor="" expirationDate=""></resumptionToken></ListIdentifiers><ListMetadataFormats></ListMetadataFormats><ListRecords><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:62132439-4f12-4761-9900-c52f8265fc59:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:41:36Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>62132439-4f12-4761-9900-c52f8265fc59</dc:identifier>
+<dc:title>Reimagining the concept of work</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Created by Verizon Media. Used with permission.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/62132439-4f12-4761-9900-c52f8265fc59/1/</dc:location>
+<dc:location.attachment>reimagining the concept of work-transcript.pdf</dc:location.attachment>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:9850cccb-2986-433a-b57a-0e94e446a1e8:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:41:34Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>9850cccb-2986-433a-b57a-0e94e446a1e8</dc:identifier>
+<dc:title>Reminiscence and digital stories for residential aged care (Wellbeing Programs for Aged Care Residents Forum)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/9850cccb-2986-433a-b57a-0e94e446a1e8/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:70ea9738-1389-4b81-846a-688cba6fcfb1:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:41:33Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>70ea9738-1389-4b81-846a-688cba6fcfb1</dc:identifier>
+<dc:title>Reminiscence therapy - 2019 (Seminar Series on Ageing)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/70ea9738-1389-4b81-846a-688cba6fcfb1/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:5114ba3b-5261-40ba-b102-08e366be7449:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:41:29Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>5114ba3b-5261-40ba-b102-08e366be7449</dc:identifier>
+<dc:title>Robbie Robertson presents Designing Experience</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology and the presenter/creator.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/5114ba3b-5261-40ba-b102-08e366be7449/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:46b55a52-6d05-40f6-869b-75af0a937c89:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:41:27Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>46b55a52-6d05-40f6-869b-75af0a937c89</dc:identifier>
+<dc:title>Robot-assisted laparoscopic surgery - an ergonomic investigation</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/46b55a52-6d05-40f6-869b-75af0a937c89/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:ec1887c3-8537-4386-9196-215a79dffcd7:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:41:20Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>ec1887c3-8537-4386-9196-215a79dffcd7</dc:identifier>
+<dc:title>Smart Structures Laboratory Overview</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/ec1887c3-8537-4386-9196-215a79dffcd7/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:4fb82ff4-b289-4a22-8c49-75804f28dae2:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:41:19Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>4fb82ff4-b289-4a22-8c49-75804f28dae2</dc:identifier>
+<dc:title>Social enterprise startup: Lessons from The Swinburne Social Startup Studio (CSI Swinburne's Social Impact Summer Webinar Series - Week 1)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/4fb82ff4-b289-4a22-8c49-75804f28dae2/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:a282c68f-5aba-4e25-938d-df4d2c3c4292:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:41:16Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>a282c68f-5aba-4e25-938d-df4d2c3c4292</dc:identifier>
+<dc:title>Society 4.0 Forum (2018)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/a282c68f-5aba-4e25-938d-df4d2c3c4292/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:905e2032-8f5d-4bb6-80fc-5db5291b19dd:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:41:15Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>905e2032-8f5d-4bb6-80fc-5db5291b19dd</dc:identifier>
+<dc:title>Space law - It's not rocket science (Free Astronomy Public Lecture)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/905e2032-8f5d-4bb6-80fc-5db5291b19dd/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:944e528d-581e-4623-b943-bb7ba62891dc:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T05:41:13Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>944e528d-581e-4623-b943-bb7ba62891dc</dc:identifier>
+<dc:title>States of hydrogen - quantum model of an atom (PhysCasts)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology. Some re-use permitted (Creative Commons BY-NC).</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/944e528d-581e-4623-b943-bb7ba62891dc/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><resumptionToken completeListSize="2231" cursor="290" expirationDate="">b17b101b-f081-44d5-a083-947bf680ebe8</resumptionToken></ListRecords><ListSets><resumptionToken completeListSize="" cursor="" expirationDate=""></resumptionToken></ListSets></Response>

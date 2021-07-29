@@ -1,0 +1,141 @@
+<Response><responseDate>2021-07-28T14:22:58Z</responseDate><request verb="ListRecords" set="" metadataPrefix=""></request><error code=""></error><GetRecord><record><header status=""></header><metadata></metadata><about></about></record></GetRecord><Identify></Identify><ListIdentifiers><resumptionToken completeListSize="" cursor="" expirationDate=""></resumptionToken></ListIdentifiers><ListMetadataFormats></ListMetadataFormats><ListRecords><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:1aa533ca-9ef8-4167-bd18-22182eaeff34:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:12:52Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>1aa533ca-9ef8-4167-bd18-22182eaeff34</dc:identifier>
+<dc:title>Motion of an electric vehicle (PhysCasts)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology. Some re-use permitted (Creative Commons BY-NC).</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/1aa533ca-9ef8-4167-bd18-22182eaeff34/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:eef9aca0-d2d0-4a50-b2ba-c35e43b47f88:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:12:51Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>eef9aca0-d2d0-4a50-b2ba-c35e43b47f88</dc:identifier>
+<dc:title>Non-Work Presenteeism: What is it, what does it cost and how to prevent it (Swinburne Business Forum)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/eef9aca0-d2d0-4a50-b2ba-c35e43b47f88/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:fb314273-f547-42f8-ab1f-d7846ee09bbe:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:12:50Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>fb314273-f547-42f8-ab1f-d7846ee09bbe</dc:identifier>
+<dc:title>Noongar knowledge networks and minority languages on the Net, or, Why is there no Aboriginal-language Wikipedia? (Swinburne Institute Seminar Series)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/fb314273-f547-42f8-ab1f-d7846ee09bbe/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:dc4ab781-c37f-4d38-a303-a79565512388:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:12:49Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>dc4ab781-c37f-4d38-a303-a79565512388</dc:identifier>
+<dc:title>OECD iLibrary Database (INB30011 International Investment and Economic Development)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/dc4ab781-c37f-4d38-a303-a79565512388/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:b937580c-66e4-466b-9072-4c1d6f2ea2e7:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:12:47Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>b937580c-66e4-466b-9072-4c1d6f2ea2e7</dc:identifier>
+<dc:title>Older Australians and the internet (Swinburne Institute Seminar Series)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/b937580c-66e4-466b-9072-4c1d6f2ea2e7/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:f5d62227-e308-4d9d-b384-a5866e8b329b:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:12:47Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>f5d62227-e308-4d9d-b384-a5866e8b329b</dc:identifier>
+<dc:title>One sample t-test (STA10003 Foundations of Statistics, week 3, part 1)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology. Some re-use permitted (Creative Commons BY-NC-ND).</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/f5d62227-e308-4d9d-b384-a5866e8b329b/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:cc5355ee-edb4-4435-a02d-15f5b3a1c18b:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:12:46Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>cc5355ee-edb4-4435-a02d-15f5b3a1c18b</dc:identifier>
+<dc:title>OpenStack on IPv6; a routing viewpoint (CAIA Research Seminars)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology and presenter/creator.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/cc5355ee-edb4-4435-a02d-15f5b3a1c18b/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:8bc3a152-5452-4998-8604-6a64e35900fa:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:12:45Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>8bc3a152-5452-4998-8604-6a64e35900fa</dc:identifier>
+<dc:title>Our people, our prosperity: When we look to the Australian economy of the future, human capital is going to be the game changer (Chancellor's Lecture Series)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology and presenter/creator.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/8bc3a152-5452-4998-8604-6a64e35900fa/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:2a68bccc-2585-4001-ac42-93bcf7c1b6c6:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:12:44Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>2a68bccc-2585-4001-ac42-93bcf7c1b6c6</dc:identifier>
+<dc:title>Overview of the research modules (Final Year Engineering Project)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/2a68bccc-2585-4001-ac42-93bcf7c1b6c6/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:7ee9efb6-96ad-49ca-82db-24683de944aa:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:12:44Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>7ee9efb6-96ad-49ca-82db-24683de944aa</dc:identifier>
+<dc:title>Overview of the assessment (Final Year Engineering Project)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/7ee9efb6-96ad-49ca-82db-24683de944aa/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><resumptionToken completeListSize="2231" cursor="1180" expirationDate="">b9ae75e6-f147-40a8-bd23-169860d53c3a</resumptionToken></ListRecords><ListSets><resumptionToken completeListSize="" cursor="" expirationDate=""></resumptionToken></ListSets></Response>

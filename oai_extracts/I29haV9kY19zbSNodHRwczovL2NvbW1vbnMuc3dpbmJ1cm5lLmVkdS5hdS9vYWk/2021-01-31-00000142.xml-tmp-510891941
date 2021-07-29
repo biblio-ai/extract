@@ -1,0 +1,141 @@
+<Response><responseDate>2021-07-28T14:23:26Z</responseDate><request verb="ListRecords" set="" metadataPrefix=""></request><error code=""></error><GetRecord><record><header status=""></header><metadata></metadata><about></about></record></GetRecord><Identify></Identify><ListIdentifiers><resumptionToken completeListSize="" cursor="" expirationDate=""></resumptionToken></ListIdentifiers><ListMetadataFormats></ListMetadataFormats><ListRecords><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:a32087d5-111b-4941-903f-ebd3ee7b1da9:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:07:00Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>a32087d5-111b-4941-903f-ebd3ee7b1da9</dc:identifier>
+<dc:title>Merging functional knowledge with academic endeavour to develop a holistic career (Postgraduate Public Lecture Series 2013)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/a32087d5-111b-4941-903f-ebd3ee7b1da9/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:3e56b37c-c35f-486e-8e8f-00c63d811faf:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:06:59Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>3e56b37c-c35f-486e-8e8f-00c63d811faf</dc:identifier>
+<dc:title>Nature and nurture in leadership - The life of Sir John Monash (Swinburne Leadership Dialogues)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/3e56b37c-c35f-486e-8e8f-00c63d811faf/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:15600f9d-02ab-4b27-ae3e-5ae1a782712b:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:06:58Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>15600f9d-02ab-4b27-ae3e-5ae1a782712b</dc:identifier>
+<dc:title>New leadership constructs and Asian perspectives (DataBlitz 2013)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Christopher Selvarajah.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/15600f9d-02ab-4b27-ae3e-5ae1a782712b/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:8c0f0213-e722-4bdc-8d2b-8e268dbfa1d4:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:06:57Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>8c0f0213-e722-4bdc-8d2b-8e268dbfa1d4</dc:identifier>
+<dc:title>Newton's 2nd Law (PhysCasts)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology. Some re-use permitted (Creative Commons BY-NC).</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/8c0f0213-e722-4bdc-8d2b-8e268dbfa1d4/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:a741976e-58b2-4203-9762-1ebce73ca2e3:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:06:56Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>a741976e-58b2-4203-9762-1ebce73ca2e3</dc:identifier>
+<dc:title>Newton's 3rd Law (PhysCasts)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology. Some re-use permitted (Creative Commons BY-NC).</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/a741976e-58b2-4203-9762-1ebce73ca2e3/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:e25e8df2-1174-46c5-a7c4-5b6e93e6051c:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:06:56Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>e25e8df2-1174-46c5-a7c4-5b6e93e6051c</dc:identifier>
+<dc:title>Newton's Cradle: an example of elastic collisions (PhysCasts)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology. Some re-use permitted (Creative Commons BY-NC).</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/e25e8df2-1174-46c5-a7c4-5b6e93e6051c/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:907a12a6-7f12-49d5-951b-8cb53737ee64:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:06:55Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>907a12a6-7f12-49d5-951b-8cb53737ee64</dc:identifier>
+<dc:title>NGOs and development management: challenges of being 'business-like' (DataBlitz 2013)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Michael Moran.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/907a12a6-7f12-49d5-951b-8cb53737ee64/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:0bcd4a35-dd87-4557-8f59-ac27d4b75556:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:06:54Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>0bcd4a35-dd87-4557-8f59-ac27d4b75556</dc:identifier>
+<dc:title>Observing echoes of the Big Bang in the Universe's most distant light (Free Astronomy Public Lectures)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/0bcd4a35-dd87-4557-8f59-ac27d4b75556/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:2686a923-d8f6-4556-8d70-2af80e5f4f76:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:06:53Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>2686a923-d8f6-4556-8d70-2af80e5f4f76</dc:identifier>
+<dc:title>One sample t-test (StatsCasts)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology. Some re-use permitted (Creative Commons BY-NC).</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/2686a923-d8f6-4556-8d70-2af80e5f4f76/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><record xmlns="http://www.openarchives.org/OAI/2.0/"><header status=""><identifier>tle:3c81e058-ff2b-4311-badb-a8187cae71e7:4399f5b5-02b3-4d8f-ac67-7d348c720fd1:1</identifier><datestamp>2021-01-14T04:06:53Z</datestamp><setSpec>4399f5b5-02b3-4d8f-ac67-7d348c720fd1</setSpec></header><metadata><oai_dc:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/               http://www.openarchives.org/OAI/2.0/oai_dc.xsd" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<dc:identifier>3c81e058-ff2b-4311-badb-a8187cae71e7</dc:identifier>
+<dc:title>Old galaxies in the aging universe (Free Astronomy Public Lectures)</dc:title>
+<dc:date/>
+<dc:type/>
+<dc:title.details/>
+<dc:publisher> : </dc:publisher>
+<dc:edition/>
+<dc:rights>Copyright owned by Swinburne University of Technology.</dc:rights>
+<dc:source>Subject Materials</dc:source>
+<dc:description/>
+<dc:location>https://commons.swinburne.edu.au/file/3c81e058-ff2b-4311-badb-a8187cae71e7/1/</dc:location>
+<dc:location.attachment/>
+</oai_dc:dc>
+</metadata><about></about></record><resumptionToken completeListSize="2231" cursor="1420" expirationDate="">ff61cc9a-6dd6-41aa-8177-32564150ab55</resumptionToken></ListRecords><ListSets><resumptionToken completeListSize="" cursor="" expirationDate=""></resumptionToken></ListSets></Response>
