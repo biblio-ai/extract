@@ -1,4 +1,4 @@
-OAI extract date: 2021-07-29
+OAI extract date: 2021-08-07
 
 
 OAI Provider: https://rosetta.slv.vic.gov.au/oaiprovider/request
@@ -53,6 +53,13 @@ OAI Provider: https://rosetta.slv.vic.gov.au/oaiprovider/request
     {
       "setSpec": "primotest",
       "setName": "primotest",
+      "setDescription": {
+        "Body": null
+      }
+    },
+    {
+      "setSpec": "primo_smallset",
+      "setName": "primo_smallset",
       "setDescription": {
         "Body": null
       }
