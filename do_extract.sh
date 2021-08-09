@@ -22,9 +22,10 @@ do
   if [[ ! -z "$oai_set" ]] ; then
     printf 'Metha-sync Set:\n'
     printf $oai_set
-    METHA_DIR=$oar_dir metha-sync --set $oai_set $oai_url
+    METHA_DIR=$oai_dir metha-sync -set $oai_set $oai_url
   else
-    METHA_DIR=$oar_dir metha-sync $oai_url 
+    printf 'Metha-sync All:\n'
+    METHA_DIR=$oai_dir metha-sync $oai_url 
   fi
   #printf 'Metha-cat \n'
   #METHA_DIR=$oar_dir metha-cat $p 
