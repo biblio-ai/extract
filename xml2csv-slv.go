@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/xml"
+        "encoding/csv"
 	"fmt"
 	"io/ioutil"
 	"os"
@@ -316,11 +317,20 @@ func main() {
 	// defer the closing of our xmlFile so that we can parse it later on
 	defer xmlFile.Close()
 
-	// read our opened xmlFile as a byte array.
-	byteValue, _ := ioutil.ReadAll(xmlFile)
+        csvFile, err := os.Create("./oai_processing/csv/slv.csv")
+	if err != nil {
+		fmt.Println(err)
+	}
+        defer csvFile.Close()
+        writer := csv.NewWriter(csvFile)
+        defer writer.Flush()
 
-	// we initialize our Users array
-	var records Records
+
+        // read our opened xmlFile as a byte array.
+        byteValue, _ := ioutil.ReadAll(xmlFile)
+
+        // we initialize our Users array
+        var records Records
         var url string
         var record_handle_id string
         var record_cms_id string
@@ -333,7 +343,10 @@ func main() {
         // we iterate through every user within our users array and
         // print out the user Type, their name, and their facebook url
         // as just an example
-        fmt.Println("Identifier, Date_latest, Handle_ID, Record_CMS_ID, Record_File_ID, URL")
+        var data = []string{"Identifier", "Date_latest", "Handle_ID", "Record_CMS_ID", "Record_File_ID", "URL"}
+        if err := writer.Write(data) ; err != nil{
+		fmt.Println(err)
+	}
         for _, ch := range records.Record {
           /* date latest
           fmt.Println("Header datestamp: " + ch.Header.Datestamp.Text)
@@ -363,7 +376,12 @@ func main() {
             fmt.Print(record_cms_id)
             fmt.Print(", ")
             fmt.Println(url + record_file_id)
+            var data = []string{ch.Header.Identifier.Text, ch.Header.Datestamp.Text, record_handle_id, record_cms_id, record_file_id}
+            err := writer.Write(data)
+            if err != nil {
+              fmt.Println(err)
+            }
           }
-            //fmt.Print("\n")
+          //fmt.Print("\n")
 
         }
