@@ -1,6 +1,4 @@
 OAI extract date: 2021-08-09
 
 ```
-I29haV9kYyNodHRwczovL2NvbW1vbnMuc3d...		oai_dc	https://commons.swinburne.edu.au/oai
-UHJpbW8jb2FpX2RjI2h0dHBzOi8vcm9zZXR...	Primo	oai_dc	https://rosetta.slv.vic.gov.au/oaiprovider/request
 ```

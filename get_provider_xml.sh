@@ -10,5 +10,5 @@ printf '\n' >>$output_file
 printf '\n' >>$output_file
 printf '```' >>$output_file
 printf '\n' >>$output_file
-METHA_DIR=$oar_dir metha-ls >> $output_file
+METHA_DIR=$oai_dir metha-ls >> $output_file
 printf '```' >>$output_file
