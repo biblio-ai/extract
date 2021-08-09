@@ -13,17 +13,18 @@ do
   oai_code=`echo $p | cut -d" " -f 1`
   oai_url=`echo $p | cut -d" " -f 2`
   oai_set=`echo $p | cut -d" " -f 3`
-  if [[ ! -z "$oai_set" ]] ; then
-    $oai_set_url="--set $oai_set"
-  else
-    $oai_set_url=""
-  fi
   printf $oai_set_url
   if [[ $oai_code == "NAME" ]] ; then
     continue
   fi
   printf 'Metha-sync \n'
-  METHA_DIR=$oar_dir metha-sync $oai_url $oai_set_url
+  if [[ ! -z "$oai_set" ]] ; then
+    printf 'Metha-sync Set:\n'
+    printf $oai_set
+    METHA_DIR=$oar_dir metha-sync --set $oai_set $oai_url
+  else
+    METHA_DIR=$oar_dir metha-sync $oai_url 
+  fi
   #printf 'Metha-cat \n'
   #METHA_DIR=$oar_dir metha-cat $p 
 done < provider_oai_list.txt
