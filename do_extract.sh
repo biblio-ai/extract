@@ -15,6 +15,7 @@ do
   oai_set=`echo $p | cut -d" " -f 3`
   printf $oai_set_url
   if [[ $oai_code == "NAME" ]] ; then
+    printf 'Ignore header line \n'
     continue
   fi
   printf 'Metha-sync \n'
@@ -29,8 +30,9 @@ do
   #METHA_DIR=$oar_dir metha-cat $p 
 done < provider_oai_list.txt
 
-printf 'Run provider scripts \n'
+printf 'Run provider info scripts \n'
 ./get_provider_info.sh
+printf 'Run provider xml scripts \n'
 ./get_provider_xml.sh
 
 printf 'Git commit and push \n'
