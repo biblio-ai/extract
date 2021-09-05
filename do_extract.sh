@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Set your Metha extracts directory
-oai_dir="~/.cache/metha"
+oai_dir="/home/justin/.cache/metha"
 
 printf 'Git pull \n'
 git pull
