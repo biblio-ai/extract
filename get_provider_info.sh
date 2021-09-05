@@ -24,6 +24,6 @@ do
   printf '\n' >>$output_file
   printf '```' >>$output_file
   printf '\n' >>$output_file
-  METHA_DIR=$oar_dir metha-id $p | jq . >> $output_file
+  METHA_DIR=$oar_dir metha-id $oai_url | jq . >> $output_file
   printf '```' >>$output_file
 done < $provider_list
