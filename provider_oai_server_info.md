@@ -136,7 +136,7 @@ OAI Provider: swin-all https://commons.swinburne.edu.au/oai
 }
 ```
 
-OAI Provider: swin-trove https://commons.swinburne.edu.au/oai 6d91ac2b-9ea6-42c1-9fee-548277eb7580
+OAI Provider: swin-trove https://commons.swinburne.edu.au/oai 6d91ac2b-9ea6-42c1-9fee-548277eb7580 oai_dc_trovetest
 
 ```
 {
@@ -202,9 +202,4 @@ OAI Provider: swin-trove https://commons.swinburne.edu.au/oai 6d91ac2b-9ea6-42c1
     }
   ]
 }
-```
-
-OAI Provider: oai_dc_trovetest
-
-```
 ```
