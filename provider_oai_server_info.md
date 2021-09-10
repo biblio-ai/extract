@@ -4,68 +4,6 @@ OAI extract date: 2021-09-10
 OAI Provider: slv-primo https://rosetta.slv.vic.gov.au/oaiprovider/request Primo
 
 ```
-{
-  "formats": [
-    {
-      "metadataPrefix": "oai_dc",
-      "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
-      "metadataNamespace": "http://www.openarchives.org/OAI/2.0/oai_dc/"
-    }
-  ],
-  "identify": {
-    "repositoryName": "Rosetta",
-    "baseURL": "rosetta.slv.vic.gov.au:1801",
-    "protocolVersion": "2.0",
-    "adminEmail": [
-      "admin@rosetta.slv.vic.gov.au"
-    ],
-    "earliestDatestamp": "2021-03-04T07:01:01Z",
-    "deletedRecord": "persistent",
-    "granularity": "YYYY-MM-DDThh:mm:ssZ",
-    "description": [
-      {
-        "Body": "CiAgICAgIDxvYWktaWRlbnRpZmllciB4c2k6c2NoZW1hTG9jYXRpb249Imh0dHA6Ly93d3cub3BlbmFyY2hpdmVzLm9yZy9PQUkvMi4wL29haS1pZGVudGlmaWVyICAgIGh0dHA6Ly93d3cub3BlbmFyY2hpdmVzLm9yZy9PQUkvMi4wL29haS1pZGVudGlmaWVyLnhzZCIgeG1sbnM9Imh0dHA6Ly93d3cub3BlbmFyY2hpdmVzLm9yZy9PQUkvMi4wL29haS1pZGVudGlmaWVyIj4KICAgICAgICA8c2NoZW1lPm9haTwvc2NoZW1lPgogICAgICAgIDxyZXBvc2l0b3J5SWRlbnRpZmllcj5yb3NldHRhLnNsdi52aWMuZ292LmF1PC9yZXBvc2l0b3J5SWRlbnRpZmllcj4KICAgICAgICA8ZGVsaW1pdGVyPjo8L2RlbGltaXRlcj4KICAgICAgICA8c2FtcGxlSWRlbnRpZmllcj5vYWk6cm9zZXR0YS5zbHYudmljLmdvdi5hdTpJRTEwMDA8L3NhbXBsZUlkZW50aWZpZXI+CiAgICAgIDwvb2FpLWlkZW50aWZpZXI+CiAgICA="
-      }
-    ]
-  },
-  "sets": [
-    {
-      "setSpec": "primo_many",
-      "setName": "primo_many",
-      "setDescription": {
-        "Body": null
-      }
-    },
-    {
-      "setSpec": "SLV-collections",
-      "setName": "SLV-collections",
-      "setDescription": {
-        "Body": null
-      }
-    },
-    {
-      "setSpec": "Primo",
-      "setName": "Primo",
-      "setDescription": {
-        "Body": null
-      }
-    },
-    {
-      "setSpec": "primo_smallset",
-      "setName": "primo_smallset",
-      "setDescription": {
-        "Body": null
-      }
-    },
-    {
-      "setSpec": "primo_specific",
-      "setName": "primo_specific",
-      "setDescription": {
-        "Body": null
-      }
-    }
-  ]
-}
 ```
 
 OAI Provider: swin-all https://commons.swinburne.edu.au/oai
@@ -74,14 +12,14 @@ OAI Provider: swin-all https://commons.swinburne.edu.au/oai
 {
   "formats": [
     {
-      "metadataPrefix": "oai_dc_embed",
-      "schema": "oai_dc_embed",
-      "metadataNamespace": "oai_dc_embed"
-    },
-    {
       "metadataPrefix": "oai_dc",
       "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
       "metadataNamespace": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+    },
+    {
+      "metadataPrefix": "oai_dc_trovetest",
+      "schema": "oai_dc_trovetest",
+      "metadataNamespace": "oai_dc_trovetest"
     },
     {
       "metadataPrefix": "oai_dc_sm",
@@ -136,20 +74,20 @@ OAI Provider: swin-all https://commons.swinburne.edu.au/oai
 }
 ```
 
-OAI Provider: swin-trove https://commons.swinburne.edu.au/oai ba93cfa2-2dfe-4ea5-8026-c9226620ef27
+OAI Provider: swin-trove https://commons.swinburne.edu.au/oai 6d91ac2b-9ea6-42c1-9fee-548277eb7580
 
 ```
 {
   "formats": [
     {
-      "metadataPrefix": "oai_dc_embed",
-      "schema": "oai_dc_embed",
-      "metadataNamespace": "oai_dc_embed"
-    },
-    {
       "metadataPrefix": "oai_dc",
       "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
       "metadataNamespace": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+    },
+    {
+      "metadataPrefix": "oai_dc_trovetest",
+      "schema": "oai_dc_trovetest",
+      "metadataNamespace": "oai_dc_trovetest"
     },
     {
       "metadataPrefix": "oai_dc_sm",
