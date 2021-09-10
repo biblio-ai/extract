@@ -2,3 +2,4 @@ NAME URL SET FORMAT
 slv-primo https://rosetta.slv.vic.gov.au/oaiprovider/request Primo oai_dc
 swin-all https://commons.swinburne.edu.au/oai
 swin-trove https://commons.swinburne.edu.au/oai 6d91ac2b-9ea6-42c1-9fee-548277eb7580 oai_dc_trovetest
+swin-trovetest https://commons.swinburne.edu.au/p/oai 6d91ac2b-9ea6-42c1-9fee-548277eb7580 oai_dc_trovetest
