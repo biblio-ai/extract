@@ -1,7 +1,7 @@
 OAI extract date: 2021-09-10
 
 
-OAI Provider: slv-primo https://rosetta.slv.vic.gov.au/oaiprovider/request Primo
+OAI Provider: slv-primo https://rosetta.slv.vic.gov.au/oaiprovider/request Primo oai_dc
 
 ```
 {
@@ -202,4 +202,9 @@ OAI Provider: swin-trove https://commons.swinburne.edu.au/oai 6d91ac2b-9ea6-42c1
     }
   ]
 }
+```
+
+OAI Provider: oai_dc_trovetest
+
+```
 ```

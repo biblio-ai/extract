@@ -13,6 +13,7 @@ do
   oai_code=`echo $p | cut -d" " -f 1`
   oai_url=`echo $p | cut -d" " -f 2`
   oai_set=`echo $p | cut -d" " -f 3`
+  oai_format=`echo $p | cut -d" " -f 4`
   printf $oai_set_url
   if [[ $oai_code == "NAME" ]] ; then
     printf 'Ignore header line \n'
@@ -22,7 +23,9 @@ do
   if [[ ! -z "$oai_set" ]] ; then
     printf 'Metha-sync Set:\n'
     printf $oai_set
-    METHA_DIR=$oai_dir metha-sync -set $oai_set $oai_url
+    printf 'Metha-sync Format:\n'
+    printf $oai_format
+    METHA_DIR=$oai_dir metha-sync -set $oai_set -format $oai_format $oai_url
   else
     printf 'Metha-sync All:\n'
     METHA_DIR=$oai_dir metha-sync $oai_url 
