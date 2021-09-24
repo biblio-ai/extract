@@ -1,4 +1,4 @@
-OAI extract date: 2021-09-16
+OAI extract date: 2021-09-24
 
 
 OAI Provider: slv https://rosetta.slv.vic.gov.au/oaiprovider/request
@@ -55,6 +55,112 @@ OAI Provider: slv https://rosetta.slv.vic.gov.au/oaiprovider/request
 ```
 
 OAI Provider: slv-primo https://rosetta.slv.vic.gov.au/oaiprovider/request Primo oai_dc
+
+```
+{
+  "formats": [
+    {
+      "metadataPrefix": "oai_dc",
+      "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+      "metadataNamespace": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+    }
+  ],
+  "identify": {
+    "repositoryName": "Rosetta",
+    "baseURL": "rosetta.slv.vic.gov.au:1801",
+    "protocolVersion": "2.0",
+    "adminEmail": [
+      "admin@rosetta.slv.vic.gov.au"
+    ],
+    "earliestDatestamp": "2021-03-04T07:01:01Z",
+    "deletedRecord": "persistent",
+    "granularity": "YYYY-MM-DDThh:mm:ssZ",
+    "description": [
+      {
+        "Body": "CiAgICAgIDxvYWktaWRlbnRpZmllciB4c2k6c2NoZW1hTG9jYXRpb249Imh0dHA6Ly93d3cub3BlbmFyY2hpdmVzLm9yZy9PQUkvMi4wL29haS1pZGVudGlmaWVyICAgIGh0dHA6Ly93d3cub3BlbmFyY2hpdmVzLm9yZy9PQUkvMi4wL29haS1pZGVudGlmaWVyLnhzZCIgeG1sbnM9Imh0dHA6Ly93d3cub3BlbmFyY2hpdmVzLm9yZy9PQUkvMi4wL29haS1pZGVudGlmaWVyIj4KICAgICAgICA8c2NoZW1lPm9haTwvc2NoZW1lPgogICAgICAgIDxyZXBvc2l0b3J5SWRlbnRpZmllcj5yb3NldHRhLnNsdi52aWMuZ292LmF1PC9yZXBvc2l0b3J5SWRlbnRpZmllcj4KICAgICAgICA8ZGVsaW1pdGVyPjo8L2RlbGltaXRlcj4KICAgICAgICA8c2FtcGxlSWRlbnRpZmllcj5vYWk6cm9zZXR0YS5zbHYudmljLmdvdi5hdTpJRTEwMDA8L3NhbXBsZUlkZW50aWZpZXI+CiAgICAgIDwvb2FpLWlkZW50aWZpZXI+CiAgICA="
+      }
+    ]
+  },
+  "sets": [
+    {
+      "setSpec": "primo_many",
+      "setName": "primo_many",
+      "setDescription": {
+        "Body": null
+      }
+    },
+    {
+      "setSpec": "SLV-collections",
+      "setName": "SLV-collections",
+      "setDescription": {
+        "Body": null
+      }
+    },
+    {
+      "setSpec": "Primo",
+      "setName": "Primo",
+      "setDescription": {
+        "Body": null
+      }
+    }
+  ]
+}
+```
+
+OAI Provider: slv-collections https://rosetta.slv.vic.gov.au/oaiprovider/request SLV-collections oai_dc
+
+```
+{
+  "formats": [
+    {
+      "metadataPrefix": "oai_dc",
+      "schema": "http://www.openarchives.org/OAI/2.0/oai_dc.xsd",
+      "metadataNamespace": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+    }
+  ],
+  "identify": {
+    "repositoryName": "Rosetta",
+    "baseURL": "rosetta.slv.vic.gov.au:1801",
+    "protocolVersion": "2.0",
+    "adminEmail": [
+      "admin@rosetta.slv.vic.gov.au"
+    ],
+    "earliestDatestamp": "2021-03-04T07:01:01Z",
+    "deletedRecord": "persistent",
+    "granularity": "YYYY-MM-DDThh:mm:ssZ",
+    "description": [
+      {
+        "Body": "CiAgICAgIDxvYWktaWRlbnRpZmllciB4c2k6c2NoZW1hTG9jYXRpb249Imh0dHA6Ly93d3cub3BlbmFyY2hpdmVzLm9yZy9PQUkvMi4wL29haS1pZGVudGlmaWVyICAgIGh0dHA6Ly93d3cub3BlbmFyY2hpdmVzLm9yZy9PQUkvMi4wL29haS1pZGVudGlmaWVyLnhzZCIgeG1sbnM9Imh0dHA6Ly93d3cub3BlbmFyY2hpdmVzLm9yZy9PQUkvMi4wL29haS1pZGVudGlmaWVyIj4KICAgICAgICA8c2NoZW1lPm9haTwvc2NoZW1lPgogICAgICAgIDxyZXBvc2l0b3J5SWRlbnRpZmllcj5yb3NldHRhLnNsdi52aWMuZ292LmF1PC9yZXBvc2l0b3J5SWRlbnRpZmllcj4KICAgICAgICA8ZGVsaW1pdGVyPjo8L2RlbGltaXRlcj4KICAgICAgICA8c2FtcGxlSWRlbnRpZmllcj5vYWk6cm9zZXR0YS5zbHYudmljLmdvdi5hdTpJRTEwMDA8L3NhbXBsZUlkZW50aWZpZXI+CiAgICAgIDwvb2FpLWlkZW50aWZpZXI+CiAgICA="
+      }
+    ]
+  },
+  "sets": [
+    {
+      "setSpec": "primo_many",
+      "setName": "primo_many",
+      "setDescription": {
+        "Body": null
+      }
+    },
+    {
+      "setSpec": "SLV-collections",
+      "setName": "SLV-collections",
+      "setDescription": {
+        "Body": null
+      }
+    },
+    {
+      "setSpec": "Primo",
+      "setName": "Primo",
+      "setDescription": {
+        "Body": null
+      }
+    }
+  ]
+}
+```
+
+OAI Provider: slv-primo-many https://rosetta.slv.vic.gov.au/oaiprovider/request primo-many oai_dc
 
 ```
 {
@@ -179,6 +285,13 @@ OAI Provider: swin-trovetest https://commons.swinburne.edu.au/p/oai 6d91ac2b-9ea
       "setName": "OAI Set - TEMP for SLV",
       "setDescription": {
         "Body": "PG9haV9kYzpkYyB4bWxuczpvYWlfZGM9Imh0dHA6Ly93d3cub3BlbmFyY2hpdmVzLm9yZy9PQUkvMi4wL29haV9kYy8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vd3d3Lm9wZW5hcmNoaXZlcy5vcmcvT0FJLzIuMC9vYWlfZGMvIGh0dHA6Ly93d3cub3BlbmFyY2hpdmVzLm9yZy9PQUkvMi4wL29haV9kYy54c2QiPjxkYzpkZXNjcmlwdGlvbj5UZW1wb3JhcnkgZmVlZCBmb3IgU0xWLjwvZGM6ZGVzY3JpcHRpb24+PC9vYWlfZGM6ZGM+"
+      }
+    },
+    {
+      "setSpec": "876c2d1a-ef23-4a86-ad8e-a7384ad390c7",
+      "setName": "OAI Set - Commons",
+      "setDescription": {
+        "Body": "PG9haV9kYzpkYyB4bWxuczpvYWlfZGM9Imh0dHA6Ly93d3cub3BlbmFyY2hpdmVzLm9yZy9PQUkvMi4wL29haV9kYy8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vd3d3Lm9wZW5hcmNoaXZlcy5vcmcvT0FJLzIuMC9vYWlfZGMvIGh0dHA6Ly93d3cub3BlbmFyY2hpdmVzLm9yZy9PQUkvMi4wL29haV9kYy54c2QiPjxkYzpkZXNjcmlwdGlvbj5JbiBwcm9ncmVzcyAtIHNldCBmb3IgQ29tbW9ucyByZWNvcmRzIGludG8gUHJpbW9WRS48L2RjOmRlc2NyaXB0aW9uPjwvb2FpX2RjOmRjPg=="
       }
     }
   ]
