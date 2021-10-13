@@ -1,4 +1,4 @@
-OAI extract date: 2021-09-27
+OAI extract date: 2021-10-13
 
 
 OAI Provider: slv-primo https://rosetta.slv.vic.gov.au/oaiprovider/request Primo oai_dc
@@ -39,6 +39,13 @@ OAI Provider: slv-primo https://rosetta.slv.vic.gov.au/oaiprovider/request Primo
     {
       "setSpec": "SLV-collections",
       "setName": "SLV-collections",
+      "setDescription": {
+        "Body": null
+      }
+    },
+    {
+      "setSpec": "Primo_sandbox",
+      "setName": "Primo_sandbox",
       "setDescription": {
         "Body": null
       }
@@ -97,6 +104,13 @@ OAI Provider: slv-collections https://rosetta.slv.vic.gov.au/oaiprovider/request
       }
     },
     {
+      "setSpec": "Primo_sandbox",
+      "setName": "Primo_sandbox",
+      "setDescription": {
+        "Body": null
+      }
+    },
+    {
       "setSpec": "Primo",
       "setName": "Primo",
       "setDescription": {
@@ -150,6 +164,13 @@ OAI Provider: slv-primo-many https://rosetta.slv.vic.gov.au/oaiprovider/request 
       }
     },
     {
+      "setSpec": "Primo_sandbox",
+      "setName": "Primo_sandbox",
+      "setDescription": {
+        "Body": null
+      }
+    },
+    {
       "setSpec": "Primo",
       "setName": "Primo",
       "setDescription": {
@@ -169,6 +190,11 @@ OAI Provider: swin-trovetest https://commons.swinburne.edu.au/p/oai 6d91ac2b-9ea
       "metadataPrefix": "oai_dc",
       "schema": "oai_dc",
       "metadataNamespace": "oai_dc"
+    },
+    {
+      "metadataPrefix": "oai_dc_commons",
+      "schema": "oai_dc_commons",
+      "metadataNamespace": "oai_dc_commons"
     },
     {
       "metadataPrefix": "oai_dc_trovetest",
