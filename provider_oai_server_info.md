@@ -1,4 +1,4 @@
-OAI extract date: 2021-10-13
+OAI extract date: 2021-11-02
 
 
 OAI Provider: slv-primo https://rosetta.slv.vic.gov.au/oaiprovider/request Primo oai_dc
@@ -19,7 +19,7 @@ OAI Provider: slv-primo https://rosetta.slv.vic.gov.au/oaiprovider/request Primo
     "adminEmail": [
       "admin@rosetta.slv.vic.gov.au"
     ],
-    "earliestDatestamp": "2021-03-04T07:01:01Z",
+    "earliestDatestamp": "2021-03-04T07:01:03Z",
     "deletedRecord": "persistent",
     "granularity": "YYYY-MM-DDThh:mm:ssZ",
     "description": [
@@ -79,7 +79,7 @@ OAI Provider: slv-collections https://rosetta.slv.vic.gov.au/oaiprovider/request
     "adminEmail": [
       "admin@rosetta.slv.vic.gov.au"
     ],
-    "earliestDatestamp": "2021-03-04T07:01:01Z",
+    "earliestDatestamp": "2021-03-04T07:01:03Z",
     "deletedRecord": "persistent",
     "granularity": "YYYY-MM-DDThh:mm:ssZ",
     "description": [
@@ -139,7 +139,7 @@ OAI Provider: slv-primo-many https://rosetta.slv.vic.gov.au/oaiprovider/request 
     "adminEmail": [
       "admin@rosetta.slv.vic.gov.au"
     ],
-    "earliestDatestamp": "2021-03-04T07:01:01Z",
+    "earliestDatestamp": "2021-03-04T07:01:03Z",
     "deletedRecord": "persistent",
     "granularity": "YYYY-MM-DDThh:mm:ssZ",
     "description": [
@@ -192,14 +192,19 @@ OAI Provider: swin-trovetest https://commons.swinburne.edu.au/p/oai 6d91ac2b-9ea
       "metadataNamespace": "oai_dc"
     },
     {
-      "metadataPrefix": "oai_dc_commons",
-      "schema": "oai_dc_commons",
-      "metadataNamespace": "oai_dc_commons"
-    },
-    {
       "metadataPrefix": "oai_dc_trovetest",
       "schema": "oai_dc_trovetest",
       "metadataNamespace": "oai_dc_trovetest"
+    },
+    {
+      "metadataPrefix": "oai_dc_ve_commons",
+      "schema": "oai_dc_ve_commons",
+      "metadataNamespace": "oai_dc_ve_commons"
+    },
+    {
+      "metadataPrefix": "oai_dc_ve_licenced",
+      "schema": "oai_dc_ve_licenced",
+      "metadataNamespace": "oai_dc_ve_licenced"
     },
     {
       "metadataPrefix": "oai_dc_sm",
@@ -265,6 +270,13 @@ OAI Provider: swin-trovetest https://commons.swinburne.edu.au/p/oai 6d91ac2b-9ea
       "setName": "OAI Set - Commons",
       "setDescription": {
         "Body": "PG9haV9kYzpkYyB4bWxuczpvYWlfZGM9Imh0dHA6Ly93d3cub3BlbmFyY2hpdmVzLm9yZy9PQUkvMi4wL29haV9kYy8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vd3d3Lm9wZW5hcmNoaXZlcy5vcmcvT0FJLzIuMC9vYWlfZGMvIGh0dHA6Ly93d3cub3BlbmFyY2hpdmVzLm9yZy9PQUkvMi4wL29haV9kYy54c2QiPjxkYzpkZXNjcmlwdGlvbj5JbiBwcm9ncmVzcyAtIHNldCBmb3IgQ29tbW9ucyByZWNvcmRzIGludG8gUHJpbW9WRS48L2RjOmRlc2NyaXB0aW9uPjwvb2FpX2RjOmRjPg=="
+      }
+    },
+    {
+      "setSpec": "7a567051-1957-485c-8876-654dafce25ef",
+      "setName": "OAI Set - Licenced",
+      "setDescription": {
+        "Body": null
       }
     }
   ]
